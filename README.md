@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://dapchat.online/users/lewisdaleuk" rel="me">Mastodon</a>
